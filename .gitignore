@@ -55,6 +55,7 @@ Thumbs.db
 *.jpeg
 *.tiff
 *.tif
+*favicon*
 
 # Custom #
 ######################
@@ -69,3 +70,8 @@ lib
 _site/
 assets/js/
 *.min.js
+mstile-150x150.png
+safari-pinned-tab.svg
+browserconfig.xml
+apple-touch-icon.png
+android-chrome-144x144.png
