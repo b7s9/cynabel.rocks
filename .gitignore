@@ -70,3 +70,5 @@ lib
 _site/
 assets/js/
 *.min.js
+bak
+*.bak
